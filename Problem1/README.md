@@ -18,7 +18,7 @@ To run this application, you need:
 
 - Java Development Kit (JDK) 8 or higher
 - Maven
-- MySQL Server (DatabaseName: base1, ServerPort: 8085)
+- MySQL Server
 
 
 ## Usage
@@ -46,4 +46,6 @@ Example using URL: 'http://localhost:8085/api/save'
   "Category": "Anime"
 }
 ```
+
+
 Response will indicate whether the entry was saved successfully.
